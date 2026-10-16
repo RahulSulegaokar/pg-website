@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//P&G Alumni Association of India//PGAAI Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:conference-2026@pgaai.in
+DTSTAMP:20261015T033000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:PGAAI Learning & Networking Conference 2026
+LOCATION:The St. Regis Mumbai, 462 Senapati Bapat Marg, Lower Parel, Mumbai 400013
+DESCRIPTION:Eminent alum & external speakers | Complementary health assessment by CONNECT & HEAL at the venue | Networking and camaraderie over cocktails & dinner. Registration: https://pgaai.in/events/2026-conference Contact: sec@pgaai.in
+URL:https://pgaai.in/events/2026-conference
+ORGANIZER;CN=P&G Alumni Association of India:mailto:sec@pgaai.in
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:PGAAI Conference 2026 is tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR
